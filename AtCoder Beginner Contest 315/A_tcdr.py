@@ -1,0 +1,1 @@
+print(''.join([i for i in input() if i != 'a' and i != 'e' and i != 'i' and i != 'o' and i != 'u']))
